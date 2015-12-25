@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:andoid="http://schemas.android.com/apk/res/android"
+    andoid:widgetCategory="keyguard|home_screen"
+    andoid:initialLayout="@layout/flash_layout"
+    andoid:minHeight="50dp"
+    andoid:minWidth="50dp"
+    andoid:updatePeriodMillis="0"
+    andoid:resizeMode="horizontal|vertical"/>

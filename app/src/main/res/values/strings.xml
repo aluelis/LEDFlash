@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LED Flash</string>
+    <string name="light_bulb">Flash</string>
+</resources>
